@@ -1,3 +1,2 @@
 This is the first line
-hello
 This is the second line 
